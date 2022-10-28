@@ -1,0 +1,51 @@
+.container
+{ 
+    background-color:snow;
+	width:auto; 
+	height:auto; 
+    padding: 10px;
+    color:black;
+}
+.left-column-md-6
+{ 
+	float:left; 
+	width: 40%;
+    padding: 0px 30px;
+    margin-top: 30px;
+} 
+.right-column-md-6
+{ 
+    float: right;
+    width: 60%;
+    margin-top: 40px;
+}
+#first-name,#last-name,#addressline,#pincode,#state,#country
+{
+    width: 75%;
+    margin-bottom: 7px;
+}
+input[type=checkbox]
+{
+    margin: 0px 5px;
+}
+input[type=radio]
+{
+    margin: 10px;
+}
+#button1
+{
+    margin: 10px 0px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 10px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+table
+{
+    text-align: center;
+}
+.row
+{
+    width: 100%;
+}
+.thead-dark
+{
+    color:chocolate;
+}
